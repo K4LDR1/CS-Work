@@ -1,0 +1,30 @@
+table{
+	border-collapse: collapse;
+	border: 1px solid black;
+	width: 60%;
+	height: 170px;
+	table-layout: auto;
+	margin-left: 20%;
+	margin-top: 5%;
+}
+tr ,th ,td{
+	border-collapse: collapse;
+	border:1px solid black;
+}
+#tot {
+	width: 32%;
+}
+#tot_val {
+
+	font-size: 20px;
+	text-align: center;
+}
+.head {
+	text-align: left;
+}
+.content {
+	text-align: left;
+	font-size: 20px;
+}
+
+
